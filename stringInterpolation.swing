@@ -1,0 +1,7 @@
+
+let nome = "Anderson"
+let sobrenome = "Marques"
+
+var message = "Nome: \(nome) Sobrenome: \(sobrenome)"
+
+print(message)
